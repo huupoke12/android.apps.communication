@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Communication</string>
+    <string name="clipboard_copied">Copied to clipboard</string>
+</resources>
